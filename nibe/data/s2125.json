@@ -7179,6 +7179,30 @@
     "default": 0.0,
     "name": "compressor-total-time-energy-storage-heat-pump-1-ep15-32342"
   },
+  "45218": {
+    "title": "External sensors, Outdoor temperature BT1",
+    "factor": 10,
+    "unit": "\u00b0C",
+    "size": "s16",
+    "name": "external-sensors-outdoor-temperature-bt1-45218",
+    "write": true
+  },
+  "45219": {
+    "title": "External sensors, External Supply Temperature BT25",
+    "factor": 10,
+    "unit": "\u00b0C",
+    "size": "s16",
+    "name": "external-sensors-external-supply-temperature-bt25-45219",
+    "write": true
+  },
+  "45220": {
+    "title": "External sensors, External Return Temperature BT71",
+    "factor": 10,
+    "unit": "\u00b0C",
+    "size": "s16",
+    "name": "external-sensors-external-return-temperature-bt71-45220",
+    "write": true
+  },
   "44205": {
     "title": "Auto mode, start temperature for active cooling",
     "factor": 10,
